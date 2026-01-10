@@ -161,6 +161,15 @@ Centralized logging (Wazuh / SIEM)
 
 Detection engineering and response simulations
 
+## Evidence
+
+Screenshots in the `/screenshots` directory demonstrate:
+
+- Proxmox Linux bridge configuration enforcing L2 separation
+- pfSense operating as the authoritative router/firewall
+- Distinct WAN (home) and LAN (lab) subnets
+- Stable routing and DHCP for lab-only devices
+
 🏁 Status
 
 Artifact 1: COMPLETE ✅
