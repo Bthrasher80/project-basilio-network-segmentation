@@ -1,6 +1,7 @@
 🧱 Artifact 1
 Network Segmentation & Lab Isolation Using pfSense and Proxmox
 Project: Project Basilio — Enterprise Cyber Home Lab
+
 📌 Objective
 
 Design and implement a secure, enterprise-style network segmentation model for a home SOC lab that:
